@@ -12,8 +12,5 @@ flask = "*"
 python-dotenv = "*"
 praw = "*"
 joblib = "*"
-tensorflow = "==2.2.0rc3"
+tensorflow = "*"
 sklearn = "*"
-
-[requires]
-python_version = "3.8"
