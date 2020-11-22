@@ -1,7 +1,7 @@
-flask>="*"
-python-dotenv>="*"
-praw>="*"
-joblib>="*"
-tensorflow-cpu>="*"
-sklearn>="*"
-gunicorn>="*"
+flask
+numpy
+praw
+joblib
+tensorflow-cpu
+scipy
+gunicorn
