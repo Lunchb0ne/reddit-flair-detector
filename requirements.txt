@@ -1,7 +1,6 @@
 flask
-numpy
+tensorflow-cpu
 praw
 joblib
-tensorflow-cpu
 scipy
 gunicorn
